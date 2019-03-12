@@ -29,6 +29,7 @@ Skipping _lots_ of stuff below -- these are some of the things I'd like to look 
     - noted that biases naturally result from the fact that records & iniital metadata will often be from a wealthy non-marginalized person. a couple interesting examples to counteract this:
         - added [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) labels for indiginous groups because they're often closer to what the group calls itself
         - used spaCy & python gender-guesser to try to give names to 'Mrs. Husband' entries.
+    - another interesting talk covering some similar issues... "Using MediaWiki + WikiBase as a platform for library linked data: a pilot study" -- Jeff Mixter
 
 - keynote -- Sarah Roberts
     - fascinating info re world i'd known nothing about -- Commercial-Content moderation -- eg, "Report this video as inappropriate"
@@ -36,3 +37,46 @@ Skipping _lots_ of stuff below -- these are some of the things I'd like to look 
     - _hard_ job, engaging with uglyness for hours upon hours
 
 ---
+
+- "Why building a complete index of open access to research articles is hard and how you can help" -- Jason Priem
+    - about [unpaywall.org](https://unpaywall.org) -- so cool
+    - not a lot about "how you can help" though
+
+- "Ringers of Jupyter: The Jupyter Notebook As Faux Web App" -- Jeff Gerhard
+    - awesome talk about [jupyter notebooks](https://jupyter.org)
+    - mentioned a project he used it for, but mostly the talk was info about j-notebooks and its strengths as a platform
+    - an interesting philosophical piece, the "politics"...
+        - putting utilities and pipes on the outside instead of making magic
+        - unburying infrastructure
+    - me: [the 'scientific paper is obsolete' article](me: <https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/>) that inspired me to learn more about these originally.
+    - me: some past dev-meeting [j-notebook links](https://github.com/birkin/dev_meetings/blob/master/2019-02.md#jupyter-notebooks)
+
+- "Machine Learning based metadata generation for library archives" -- Dhanushka Samarakoon & Harish Maringanti
+    - one of the coolest talks given my interests
+    - to read, [an inspiration](http://bregman.dartmouth.edu/turingtests/competition2018) for their work
+    - basically, take an image-net data model, and use older data to try and enhance it, then apply it
+        - lots of challenges, some promise
+
+- lighning talks
+    - Book to read: <https://www.worldcat.org/title/real-world-of-technology/oclc/1027604262> by ursula franklin.
+    - <preservethispodcast.org>
+    - david lacy, temple -- privacy -- good talk about concerns that some publishers are requiring by default unique SSO user-ids associated with article-requests
+
+- "Get To Know WCAG 2.1" -- Carli Spina
+    - awesome presentation
+    - [CADET - Caption and Descriptive Editing Tool](https://www.wgbh.org/foundation/what-we-do/ncam/cadet)
+    - one line: "don't strive for minimal compliance; rather, strive for great usability"
+
+- "GDPR for American Public Libraries" -- Nathan Wittmaier
+    - great talk -- too many great bullets for a summary take-away, see my day-two conference notes; better, watch the talk.
+
+- "Webrecorder: Developing an Open-Source High-Fidelity Web Archiving Toolset" -- Ilya Kreymer
+    - one of the coolest -- "wow, it can do that?" talks -- really worth a watch
+    - <https://webrecorder.io>
+
+---
+
+
+# Code It Yourself! Teaching Collections Staff to Script
+
+Shawn Kiewel & Adriane Hanson
