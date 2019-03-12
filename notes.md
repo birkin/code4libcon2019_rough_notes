@@ -123,21 +123,18 @@ highlight notes
     - awesome pairing:
         - [diversity](https://i0.wp.com/tararobertson.ca/wp-content/uploads/2019/02/code4lib-2019-Tara-Robertson-keynote_pages-to-jpg-0007.jpg?resize=1024%2C576)
         - [inclusion](https://i1.wp.com/tararobertson.ca/wp-content/uploads/2019/02/code4lib-2019-Tara-Robertson-keynote_pages-to-jpg-0008.jpg?resize=1024%2C576)
-    - _inspiring..._
-        - "In most social situations, I think it’s always important to observe:
+    - _inspiring questions..._
 
-                Who is in the room?
-                Who is at the table?
-                Who speaks a lot?
-                Who has social capital?
-                Who feels welcome?
-                Whose ideas are respected and centered by default?
+            Who is in the room?
+            Who is at the table?
+            Who speaks a lot?
+            Who has social capital?
+            Who feels welcome?
+            Whose ideas are respected and centered by default?
 
-        - "I think even more telling to note:
-
-                Who is missing?
-                Who is sitting on the margins?
-                Who doesn’t feel welcome?
-                Who has to fight to have their viewpoints heard and respected?
+            Who is missing?
+            Who is sitting on the margins?
+            Who doesn’t feel welcome?
+            Who has to fight to have their viewpoints heard and respected?
 
 ---
